@@ -1,6 +1,6 @@
 # flag pattern
 
-Both pattern is not eliminated by webpack^3.6.0 + ugligy.Upda
+Both pattern can not eliminated by webpack^3.6.0 + uglifyjs
 
 ```js
 export class FlagClass {
